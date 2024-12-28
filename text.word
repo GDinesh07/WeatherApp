@@ -1,0 +1,26 @@
+
+    <Div class="container">
+
+        <div class="WeatherContainer">
+            <div class="temp">
+                <p>
+                    20
+                </p>
+            </div>
+            <div class="time_location">
+                <p>Hyderabad</p>
+                <p>3:57pm - Friday, 27 December 2024</p>
+            </div>
+
+            <div class="condition">
+                <p></p>
+                <p>Mist</p>
+            </div>
+        </div>
+
+    </Div>
+    <nav>
+          <form>
+                <input type="text" placeholder="search for alocation" class="search" />
+                <button type="submit">Search Button</button>
+          </form>
